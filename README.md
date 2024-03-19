@@ -41,3 +41,6 @@ Supported operators are `+` (addition), `-` (subtraction), `x` (multiplication),
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+https://github.com/jhill1971/calculator/assets/60713038/fec9e35b-ff9d-4ed5-b5c4-d1bc9769caf8
+
+
